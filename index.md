@@ -1,5 +1,7 @@
 #CODING
 
+_this is a code for macoutreach.rocks_
+
 --packman model with Radish--
 myShapes model=
   [
